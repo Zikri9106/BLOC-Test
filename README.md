@@ -1,6 +1,6 @@
 # login_application
 
-A new Flutter project.
+A Flutter project that use BLoC (Business Logic Component).
 
 ## Getting Started
 
